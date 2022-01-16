@@ -2,8 +2,6 @@
 [PYVIZ ASSIGNMENT - 06](Starter_Code/rental_analysis.ipynb)
 ![San Francisco Park Reading](Images/know-how.gif)
 
-*[San Francisco Park Reading by Juan Salamanca](https://www.pexels.com/photo/park-san-francisco-reading-61109/) | [Free License](https://www.pexels.com/photo-license/)*
-
 ## Background
 
 Harold's company has just started a new Real Estate Investment division to provide customers with a broader range of portfolio options. Harold was tasked with building a prototype dashboard and he needs your help. The real estate team wants to trial this initial offering with investment opportunities for the San Francisco market. If the new service is popular, then they can start to expand to other markets.
